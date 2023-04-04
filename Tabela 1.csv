@@ -1,0 +1,175 @@
+Cidade,CodigoDaCidade,DiaHora_Atual,Data,Regiao,Estado,Pais,Latitude,Longigute,TemperaturaMaxima,TemperaturaMinima,TemperaturaMedia,VaiChover,ChanceDeChuva,CondicaoDoTempo,VelocidadeMaximaDoVento
+Aparecida,3502507,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-22.83,-45.23,26.9,19.0,21.8,sim,81,Moderate rain,3.4
+Aparecida,3502507,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-22.83,-45.23,28.6,15.8,20.5,sim,88,Moderate rain,3.8
+Aparecida,3502507,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-22.83,-45.23,29.4,15.0,20.3,sim,88,Heavy rain,4.0
+Aparecida,3502507,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-22.83,-45.23,28.9,13.4,19.6,sim,89,Moderate rain,4.0
+Aparecida,3502507,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-22.83,-45.23,29.2,13.8,20.0,sim,79,Moderate rain,3.4
+Aparecida,3502507,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-22.83,-45.23,21.1,16.1,18.4,sim,85,Moderate rain,6.5
+Arapei,3503158,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-22.68,-44.45,23.3,15.8,20.0,sim,96,Heavy rain,5.8
+Arapei,3503158,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-22.68,-44.45,23.7,16.8,20.8,sim,89,Moderate rain,4.3
+Arapei,3503158,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-22.68,-44.45,27.3,18.5,22.4,sim,88,Heavy rain,3.6
+Arapei,3503158,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-22.68,-44.45,30.1,18.2,22.4,sim,89,Heavy rain,4.0
+Arapei,3503158,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-22.68,-44.45,30.6,17.6,22.4,sim,82,Moderate rain,4.3
+Arapei,3503158,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-22.68,-44.45,22.9,18.5,20.3,sim,82,Heavy rain,4.3
+Areias,3503505,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-1.2,-51.25,27.4,22.5,24.3,sim,85,Heavy rain,5.1
+Areias,3503505,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-1.2,-51.25,28.4,22.4,24.0,sim,90,Heavy rain,3.4
+Areias,3503505,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-1.2,-51.25,28.2,22.2,24.2,sim,86,Moderate rain,3.8
+Areias,3503505,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-1.2,-51.25,29.2,22.3,24.8,sim,89,Moderate rain,5.6
+Areias,3503505,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-1.2,-51.25,27.4,22.1,23.5,sim,79,Heavy rain,5.1
+Areias,3503505,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-1.2,-51.25,26.4,21.6,23.8,sim,87,Heavy rain,4.0
+Bananal,3504909,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-3.99,-43.12,29.7,22.1,24.5,sim,98,Heavy rain,5.1
+Bananal,3504909,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-3.99,-43.12,31.1,22.0,24.5,sim,91,Heavy rain,4.0
+Bananal,3504909,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-3.99,-43.12,30.8,21.9,25.0,sim,88,Heavy rain,5.6
+Bananal,3504909,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-3.99,-43.12,31.5,21.7,25.0,sim,86,Heavy rain,5.8
+Bananal,3504909,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-3.99,-43.12,31.3,22.1,24.6,sim,89,Heavy rain,2.9
+Bananal,3504909,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-3.99,-43.12,28.8,21.7,24.1,sim,88,Heavy rain,2.7
+Cacapava,3508504,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-23.1,-45.72,26.8,17.2,20.7,sim,87,Patchy rain possible,5.8
+Cacapava,3508504,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-23.1,-45.72,29.2,16.2,21.2,sim,88,Heavy rain,4.0
+Cacapava,3508504,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-23.1,-45.72,29.8,17.2,21.5,sim,89,Heavy rain,4.5
+Cacapava,3508504,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-23.1,-45.72,28.3,16.1,21.1,sim,87,Moderate rain,3.1
+Cacapava,3508504,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-23.1,-45.72,29.6,16.1,21.3,sim,88,Moderate rain,7.4
+Cacapava,3508504,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-23.1,-45.72,20.5,16.6,18.2,sim,82,Moderate rain,7.4
+Cachoeira Paulista,3508603,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-22.67,-45.02,27.0,15.9,20.6,sim,96,Moderate rain,4.0
+Cachoeira Paulista,3508603,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-22.67,-45.02,27.9,14.4,20.2,sim,86,Moderate rain,3.8
+Cachoeira Paulista,3508603,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-22.67,-45.02,28.5,15.4,19.9,sim,87,Heavy rain,4.0
+Cachoeira Paulista,3508603,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-22.67,-45.02,29.7,13.8,19.8,sim,89,Moderate rain,3.8
+Cachoeira Paulista,3508603,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-22.67,-45.02,31.0,14.2,20.5,sim,81,Moderate rain,3.8
+Cachoeira Paulista,3508603,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-22.67,-45.02,22.6,16.2,18.6,sim,88,Heavy rain,5.8
+Canas,3509957,2023-03-28 7:28,2023-03-28,Sudeste,São Paulo,Costa Rica,10.43,-85.1,34.3,22.5,27.8,não,0,Sunny,10.3
+Canas,3509957,2023-03-28 7:28,2023-03-29,Sudeste,São Paulo,Costa Rica,10.43,-85.1,34.8,22.6,27.3,não,0,Sunny,14.5
+Canas,3509957,2023-03-28 7:28,2023-03-30,Sudeste,São Paulo,Costa Rica,10.43,-85.1,36.9,21.8,28.0,não,0,Sunny,14.3
+Canas,3509957,2023-03-28 7:28,2023-03-31,Sudeste,São Paulo,Costa Rica,10.43,-85.1,36.7,22.7,28.3,não,0,Sunny,14.8
+Canas,3509957,2023-03-28 7:28,2023-04-01,Sudeste,São Paulo,Costa Rica,10.43,-85.1,36.4,21.0,28.0,não,0,Sunny,13.6
+Canas,3509957,2023-03-28 7:28,2023-04-02,Sudeste,São Paulo,Costa Rica,10.43,-85.1,35.3,23.3,27.9,não,0,Partly cloudy,13.6
+Caraguatatuba,3510500,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-23.62,-45.42,26.3,22.4,23.9,sim,95,Patchy rain possible,7.8
+Caraguatatuba,3510500,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-23.62,-45.42,28.0,22.0,24.4,sim,87,Moderate rain,7.8
+Caraguatatuba,3510500,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-23.62,-45.42,28.5,22.5,24.9,sim,87,Moderate rain,6.3
+Caraguatatuba,3510500,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-23.62,-45.42,27.8,22.0,24.4,sim,84,Patchy rain possible,4.9
+Caraguatatuba,3510500,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-23.62,-45.42,31.1,22.0,24.9,sim,87,Patchy rain possible,4.9
+Caraguatatuba,3510500,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-23.62,-45.42,22.9,21.3,22.2,sim,83,Moderate rain,9.6
+Cunha,3513603,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-23.08,-44.97,26.6,15.6,20.7,sim,95,Moderate rain,3.1
+Cunha,3513603,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-23.08,-44.97,29.3,16.2,20.8,sim,85,Moderate rain,3.8
+Cunha,3513603,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-23.08,-44.97,28.8,17.6,21.6,sim,86,Heavy rain,4.0
+Cunha,3513603,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-23.08,-44.97,28.3,17.7,21.9,sim,76,Moderate rain,4.0
+Cunha,3513603,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-23.08,-44.97,28.8,18.1,22.3,sim,88,Heavy rain,3.4
+Cunha,3513603,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-23.08,-44.97,21.3,13.9,17.9,não,62,Moderate rain,6.5
+Guaratingueta,3518404,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-22.82,-45.22,27.3,17.4,21.3,sim,96,Moderate rain,3.8
+Guaratingueta,3518404,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-22.82,-45.22,28.4,15.4,20.4,sim,89,Moderate rain,4.0
+Guaratingueta,3518404,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-22.82,-45.22,28.5,16.6,20.4,sim,89,Heavy rain,3.6
+Guaratingueta,3518404,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-22.82,-45.22,29.2,15.1,20.3,sim,89,Moderate rain,3.8
+Guaratingueta,3518404,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-22.82,-45.22,31.0,15.5,21.1,sim,86,Moderate rain,3.6
+Guaratingueta,3518404,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-22.82,-45.22,22.5,15.3,18.6,sim,83,Heavy rain,6.0
+Igarata,3520202,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-23.2,-46.12,26.6,17.7,21.2,sim,94,Patchy rain possible,6.7
+Igarata,3520202,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-23.2,-46.12,28.7,17.2,21.7,sim,89,Heavy rain,3.8
+Igarata,3520202,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-23.2,-46.12,29.0,18.2,22.0,sim,89,Heavy rain,4.9
+Igarata,3520202,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-23.2,-46.12,27.6,17.2,21.5,sim,89,Moderate rain,3.8
+Igarata,3520202,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-23.2,-46.12,28.8,17.1,21.6,sim,89,Heavy rain,8.3
+Igarata,3520202,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-23.2,-46.12,20.5,16.7,18.5,sim,82,Moderate rain,8.3
+Ilhabela,3520400,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-23.78,-45.35,26.6,17.7,21.2,sim,94,Patchy rain possible,6.7
+Ilhabela,3520400,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-23.78,-45.35,28.7,17.2,21.7,sim,89,Heavy rain,3.8
+Ilhabela,3520400,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-23.78,-45.35,29.0,18.2,22.0,sim,89,Heavy rain,4.9
+Ilhabela,3520400,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-23.78,-45.35,27.6,17.2,21.5,sim,89,Moderate rain,3.8
+Ilhabela,3520400,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-23.78,-45.35,28.8,17.1,21.6,sim,89,Heavy rain,8.3
+Ilhabela,3520400,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-23.78,-45.35,20.5,16.7,18.5,sim,82,Moderate rain,8.3
+Jacarei,3524402,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-23.32,-45.97,26.3,17.7,21.2,sim,94,Patchy rain possible,6.7
+Jacarei,3524402,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-23.32,-45.97,29.2,17.4,22.0,sim,78,Heavy rain,5.1
+Jacarei,3524402,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-23.32,-45.97,29.0,18.7,22.2,sim,89,Heavy rain,4.9
+Jacarei,3524402,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-23.32,-45.97,28.0,17.7,21.8,sim,81,Moderate rain,3.4
+Jacarei,3524402,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-23.32,-45.97,28.8,17.6,21.8,sim,87,Heavy rain,8.5
+Jacarei,3524402,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-23.32,-45.97,20.3,15.8,18.2,sim,76,Moderate rain,7.8
+Jambeiro,3524907,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-18.08,-42.77,31.2,16.2,22.5,não,0,Sunny,7.8
+Jambeiro,3524907,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-18.08,-42.77,31.3,13.9,21.7,não,0,Sunny,7.6
+Jambeiro,3524907,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-18.08,-42.77,31.8,14.5,21.4,não,0,Sunny,6.5
+Jambeiro,3524907,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-18.08,-42.77,34.1,14.1,22.5,não,0,Sunny,5.6
+Jambeiro,3524907,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-18.08,-42.77,34.5,16.0,23.9,não,0,Sunny,4.7
+Jambeiro,3524907,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-18.08,-42.77,31.5,18.5,23.5,não,70,Patchy rain possible,5.6
+Lagoinha,3526308,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-10.32,-38.9,30.1,16.6,23.8,sim,82,Patchy rain possible,11.9
+Lagoinha,3526308,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-10.32,-38.9,28.8,19.9,24.2,sim,88,Patchy rain possible,11.0
+Lagoinha,3526308,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-10.32,-38.9,33.4,20.6,26.0,não,65,Patchy rain possible,11.9
+Lagoinha,3526308,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-10.32,-38.9,32.6,19.2,24.6,sim,78,Patchy rain possible,10.7
+Lagoinha,3526308,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-10.32,-38.9,34.1,18.0,25.8,não,0,Sunny,10.3
+Lagoinha,3526308,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-10.32,-38.9,33.5,19.0,25.8,não,0,Sunny,7.4
+Lavrinhas,3526605,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-14.97,-49.3,26.3,19.0,22.4,sim,88,Patchy rain possible,3.1
+Lavrinhas,3526605,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-14.97,-49.3,30.3,18.4,23.2,sim,89,Patchy rain possible,8.9
+Lavrinhas,3526605,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-14.97,-49.3,31.4,18.1,23.9,não,0,Sunny,6.3
+Lavrinhas,3526605,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-14.97,-49.3,31.9,19.7,24.7,não,0,Sunny,7.4
+Lavrinhas,3526605,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-14.97,-49.3,32.3,18.3,24.8,não,0,Sunny,5.1
+Lavrinhas,3526605,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-14.97,-49.3,31.1,19.0,23.6,sim,80,Moderate rain,5.6
+Lorena,3527207,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-22.73,-45.13,27.0,15.9,20.6,sim,96,Moderate rain,4.0
+Lorena,3527207,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-22.73,-45.13,27.9,14.4,20.2,sim,86,Moderate rain,3.8
+Lorena,3527207,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-22.73,-45.13,28.5,15.4,19.9,sim,87,Heavy rain,4.0
+Lorena,3527207,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-22.73,-45.13,29.7,13.8,19.8,sim,89,Moderate rain,3.8
+Lorena,3527207,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-22.73,-45.13,31.0,14.2,20.5,sim,81,Moderate rain,3.8
+Lorena,3527207,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-22.73,-45.13,22.6,16.2,18.6,sim,88,Heavy rain,5.8
+Monteiro Lobato,3531704,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-22.97,-45.83,26.8,17.2,20.7,sim,87,Patchy rain possible,5.8
+Monteiro Lobato,3531704,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-22.97,-45.83,29.2,16.2,21.2,sim,88,Heavy rain,4.0
+Monteiro Lobato,3531704,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-22.97,-45.83,29.8,17.2,21.5,sim,89,Heavy rain,4.5
+Monteiro Lobato,3531704,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-22.97,-45.83,28.3,16.1,21.1,sim,87,Moderate rain,3.1
+Monteiro Lobato,3531704,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-22.97,-45.83,29.6,16.1,21.3,sim,88,Moderate rain,7.4
+Monteiro Lobato,3531704,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-22.97,-45.83,20.5,16.6,18.2,sim,82,Moderate rain,7.4
+Paraibuna,3535606,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-23.38,-45.65,26.6,17.7,21.2,sim,94,Patchy rain possible,6.7
+Paraibuna,3535606,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-23.38,-45.65,28.7,17.2,21.7,sim,89,Heavy rain,3.8
+Paraibuna,3535606,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-23.38,-45.65,29.0,18.2,22.0,sim,89,Heavy rain,4.9
+Paraibuna,3535606,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-23.38,-45.65,27.6,17.2,21.5,sim,89,Moderate rain,3.8
+Paraibuna,3535606,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-23.38,-45.65,28.8,17.1,21.6,sim,89,Heavy rain,8.3
+Paraibuna,3535606,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-23.38,-45.65,20.5,16.7,18.5,sim,82,Moderate rain,8.3
+Pindamonhangaba,3538006,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-22.92,-45.47,26.9,19.0,21.8,sim,81,Moderate rain,3.4
+Pindamonhangaba,3538006,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-22.92,-45.47,28.6,15.8,20.5,sim,88,Moderate rain,3.8
+Pindamonhangaba,3538006,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-22.92,-45.47,29.4,15.0,20.3,sim,88,Heavy rain,4.0
+Pindamonhangaba,3538006,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-22.92,-45.47,28.9,13.4,19.6,sim,89,Moderate rain,4.0
+Pindamonhangaba,3538006,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-22.92,-45.47,29.2,13.8,20.0,sim,79,Moderate rain,3.4
+Pindamonhangaba,3538006,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-22.92,-45.47,21.1,16.1,18.4,sim,85,Moderate rain,6.5
+Piquete,3538501,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-22.6,-45.18,27.0,15.9,20.6,sim,96,Moderate rain,4.0
+Piquete,3538501,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-22.6,-45.18,27.9,14.4,20.2,sim,86,Moderate rain,3.8
+Piquete,3538501,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-22.6,-45.18,28.5,15.4,19.9,sim,87,Heavy rain,4.0
+Piquete,3538501,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-22.6,-45.18,29.7,13.8,19.8,sim,89,Moderate rain,3.8
+Piquete,3538501,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-22.6,-45.18,31.0,14.2,20.5,sim,81,Moderate rain,3.8
+Piquete,3538501,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-22.6,-45.18,22.6,16.2,18.6,sim,88,Heavy rain,5.8
+Queluz,3541901,2023-03-28 14:28,2023-03-28,Sudeste,São Paulo,Portugal,38.75,-9.25,25.2,13.7,18.4,não,0,Sunny,6.0
+Queluz,3541901,2023-03-28 14:28,2023-03-29,Sudeste,São Paulo,Portugal,38.75,-9.25,23.0,14.2,17.9,não,0,Sunny,11.4
+Queluz,3541901,2023-03-28 14:28,2023-03-30,Sudeste,São Paulo,Portugal,38.75,-9.25,22.4,13.5,16.8,não,0,Sunny,12.3
+Queluz,3541901,2023-03-28 14:28,2023-03-31,Sudeste,São Paulo,Portugal,38.75,-9.25,20.9,13.8,16.4,não,0,Cloudy,11.6
+Queluz,3541901,2023-03-28 14:28,2023-04-01,Sudeste,São Paulo,Portugal,38.75,-9.25,20.1,11.3,15.1,não,0,Sunny,16.3
+Queluz,3541901,2023-03-28 14:28,2023-04-02,Sudeste,São Paulo,Portugal,38.75,-9.25,21.2,10.1,14.0,não,0,Sunny,11.2
+Roseira,3544301,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-23.32,-50.88,27.2,16.4,21.7,sim,80,Patchy rain possible,9.4
+Roseira,3544301,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-23.32,-50.88,29.2,18.7,23.1,sim,86,Patchy rain possible,5.8
+Roseira,3544301,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-23.32,-50.88,29.7,18.8,23.5,sim,88,Patchy rain possible,6.3
+Roseira,3544301,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-23.32,-50.88,28.5,18.5,22.8,sim,89,Moderate rain,6.7
+Roseira,3544301,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-23.32,-50.88,31.3,19.2,23.3,sim,89,Moderate rain,9.6
+Roseira,3544301,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-23.32,-50.88,24.8,17.0,20.6,sim,77,Patchy rain possible,11.4
+Santa Branca,3546009,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-23.4,-45.88,26.6,17.7,21.2,sim,94,Patchy rain possible,6.7
+Santa Branca,3546009,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-23.4,-45.88,28.7,17.2,21.7,sim,89,Heavy rain,3.8
+Santa Branca,3546009,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-23.4,-45.88,29.0,18.2,22.0,sim,89,Heavy rain,4.9
+Santa Branca,3546009,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-23.4,-45.88,27.6,17.2,21.5,sim,89,Moderate rain,3.8
+Santa Branca,3546009,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-23.4,-45.88,28.8,17.1,21.6,sim,89,Heavy rain,8.3
+Santa Branca,3546009,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-23.4,-45.88,20.5,16.7,18.5,sim,82,Moderate rain,8.3
+Sao Sebastiao,3550704,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-23.8,-45.42,26.3,22.4,23.9,sim,95,Patchy rain possible,7.8
+Sao Sebastiao,3550704,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-23.8,-45.42,28.0,22.0,24.4,sim,87,Moderate rain,7.8
+Sao Sebastiao,3550704,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-23.8,-45.42,28.5,22.5,24.9,sim,87,Moderate rain,6.3
+Sao Sebastiao,3550704,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-23.8,-45.42,27.8,22.0,24.4,sim,84,Patchy rain possible,4.9
+Sao Sebastiao,3550704,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-23.8,-45.42,31.1,22.0,24.9,sim,87,Patchy rain possible,4.9
+Sao Sebastiao,3550704,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-23.8,-45.42,22.9,21.3,22.2,sim,83,Moderate rain,9.6
+Silveiras,3552007,2023-03-28 14:28,2023-03-28,Sudeste,São Paulo,Portugal,38.63,-8.35,25.1,10.1,16.7,não,0,Partly cloudy,7.4
+Silveiras,3552007,2023-03-28 14:28,2023-03-29,Sudeste,São Paulo,Portugal,38.63,-8.35,27.0,11.3,17.5,não,0,Sunny,10.5
+Silveiras,3552007,2023-03-28 14:28,2023-03-30,Sudeste,São Paulo,Portugal,38.63,-8.35,24.4,10.1,15.5,não,0,Partly cloudy,15.4
+Silveiras,3552007,2023-03-28 14:28,2023-03-31,Sudeste,São Paulo,Portugal,38.63,-8.35,22.0,10.2,14.6,não,0,Partly cloudy,13.9
+Silveiras,3552007,2023-03-28 14:28,2023-04-01,Sudeste,São Paulo,Portugal,38.63,-8.35,20.8,7.8,13.3,não,0,Sunny,17.2
+Silveiras,3552007,2023-03-28 14:28,2023-04-02,Sudeste,São Paulo,Portugal,38.63,-8.35,19.9,4.2,12.0,não,0,Sunny,13.2
+Taubate,3554102,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-23.03,-45.55,27.0,18.6,21.6,sim,87,Moderate rain,4.0
+Taubate,3554102,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-23.03,-45.55,28.8,17.3,21.9,sim,89,Moderate rain,4.3
+Taubate,3554102,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-23.03,-45.55,29.3,18.1,21.8,sim,89,Heavy rain,4.3
+Taubate,3554102,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-23.03,-45.55,28.6,16.9,21.5,sim,87,Moderate rain,4.5
+Taubate,3554102,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-23.03,-45.55,28.4,17.0,21.7,sim,85,Moderate rain,4.3
+Taubate,3554102,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-23.03,-45.55,20.1,17.2,18.6,sim,83,Moderate rain,6.5
+Tremembe,3554805,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-22.97,-45.55,26.6,15.6,20.7,sim,95,Moderate rain,3.1
+Tremembe,3554805,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-22.97,-45.55,29.3,16.2,20.8,sim,85,Moderate rain,3.8
+Tremembe,3554805,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-22.97,-45.55,28.8,17.6,21.6,sim,86,Heavy rain,4.0
+Tremembe,3554805,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-22.97,-45.55,28.3,17.7,21.9,sim,76,Moderate rain,4.0
+Tremembe,3554805,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-22.97,-45.55,28.8,18.1,22.3,sim,88,Heavy rain,3.4
+Tremembe,3554805,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-22.97,-45.55,21.3,13.9,17.9,não,62,Moderate rain,6.5
+Ubatuba,3555406,2023-03-28 10:28,2023-03-28,Sudeste,São Paulo,Brazil,-23.43,-45.07,26.3,21.4,23.3,sim,89,Patchy rain possible,4.7
+Ubatuba,3555406,2023-03-28 10:28,2023-03-29,Sudeste,São Paulo,Brazil,-23.43,-45.07,30.3,19.6,23.7,sim,87,Moderate rain,3.6
+Ubatuba,3555406,2023-03-28 10:28,2023-03-30,Sudeste,São Paulo,Brazil,-23.43,-45.07,30.6,18.5,23.9,sim,85,Moderate rain,3.6
+Ubatuba,3555406,2023-03-28 10:28,2023-03-31,Sudeste,São Paulo,Brazil,-23.43,-45.07,28.6,17.5,22.7,sim,88,Moderate rain,3.8
+Ubatuba,3555406,2023-03-28 10:28,2023-04-01,Sudeste,São Paulo,Brazil,-23.43,-45.07,31.7,17.8,23.3,sim,88,Moderate rain,4.5
+Ubatuba,3555406,2023-03-28 10:28,2023-04-02,Sudeste,São Paulo,Brazil,-23.43,-45.07,22.3,19.1,20.6,sim,79,Moderate rain,5.6
